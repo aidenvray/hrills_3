@@ -9,7 +9,7 @@ export default function Header() {
           <span className="text-lg font-semibold">HRILLS</span>
         </Link>
         <nav className="flex items-center gap-5 text-sm">
-          <Link href="/(marketing)/pricing" className="hover:underline">Pricing</Link>
+          <Link href="/pricing" className="hover:underline">Pricing</Link>
           <Link href="/blog" className="hover:underline">Blog</Link>
           <Link href="/contact" className="hover:underline">Contact</Link>
           <a href="/api/hello" className="rounded-xl border px-3 py-1.5">API</a>
