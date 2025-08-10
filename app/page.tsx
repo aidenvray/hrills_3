@@ -23,9 +23,9 @@ export default function Home() {
               <Link href="/contact" className="rounded-2xl bg-olo-500 px-5 py-3 font-medium text-white shadow-md hover:bg-olo-700">
                 Start now
               </Link>
-              <Link href="/(marketing)/pricing" className="rounded-2xl border px-5 py-3 font-medium hover:bg-white">
-                Pricing
-              </Link>
+              <Link href="/pricing" className="rounded-2xl border px-5 py-3 font-medium hover:bg-white">
+  Pricing
+</Link>
             </div>
             <LogoCloud className="mt-10" />
           </div>
